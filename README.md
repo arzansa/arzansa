@@ -1,4 +1,8 @@
 ## Hi there 👋
+I am a software engineer currently seeking employment
+
+LinkedIn:
+https://www.linkedin.com/in/austin-rzansa/
 
 <!--
 **arzansa/arzansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

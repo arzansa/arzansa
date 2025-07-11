@@ -1,2 +1,2 @@
 ## Hi there 👋
-I'm a systems administrator who likes to code
+I'm a syadmin who likes to code

@@ -1,2 +1,2 @@
 ## Hi there 👋
-I'm a syadmin who likes to code
+I'm an architect who likes to code
